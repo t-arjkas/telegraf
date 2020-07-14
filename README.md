@@ -364,6 +364,7 @@ For documentation on the latest development code see the [documentation index][d
 * [dedup](/plugins/processors/dedup)
 * [enum](/plugins/processors/enum)
 * [override](/plugins/processors/override)
+* [multiplier](./plugins/processors/multiplier)
 * [parser](/plugins/processors/parser)
 * [pivot](/plugins/processors/pivot)
 * [printer](/plugins/processors/printer)
